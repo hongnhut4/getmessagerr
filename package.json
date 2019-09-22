@@ -10,5 +10,8 @@
     "test"
   ],
   "author": "hong_nhut",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "facebook-chat-api": "file://facebook-chat-api"
+  }
 }
