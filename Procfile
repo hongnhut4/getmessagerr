@@ -1,1 +1,1 @@
-work.js
+node work.js
